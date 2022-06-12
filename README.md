@@ -16,8 +16,8 @@
 
 
 <hr/>
-<br/>
-<h2 align="center">Key experiences:</h2>
+
+<h2 align="center">About Me:</h2>
 <p align="left">
 A diligent Master's Graduate possessing good insight and analytical skills with over 3 years of Professional Experience. 
 Driven by challenges and possess extensive knowledge of HTML, JavaScript, CSS, and React Framework with elementary experience in NodeJS, ExpressJS, MongoDB, and REST APIs. 

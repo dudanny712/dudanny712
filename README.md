@@ -14,6 +14,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dudanny712&show_icons=true&locale=en&layout=compact" alt="dudanny712" /></p>
 
+
+<hr/>
 <p align="left">
 A diligent Master's Graduate possessing good insight and analytical skills with over 3 years of Professional Experience. 
 Driven by challenges and possess extensive knowledge of HTML, JavaScript, CSS, and React Framework with elementary experience in NodeJS, ExpressJS, MongoDB, and REST APIs. 

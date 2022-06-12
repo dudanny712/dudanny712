@@ -26,16 +26,18 @@ I also possess extensive working knowledge of administration of Cloud Infrastruc
 
 <h3 align="left">Key experiences:</h3>
 <p align="left">
-Front-End: Bootstrap, CSS, HTML, JavaScript, React, Redux
-Back-End: Express.js, Node.js
-Data-Base: MongoDB, SQL
-Container Orchestration: Kubernetes
-Continuous Integration (CI):  Jenkins
-Configuration Management: Ansible
-Containerization:  Docker	
-Scripting Language: Bash
-Build Tools: Maven 			
-Cloud Technologies: AWS
-Monitoring Tool: Prometheus
-IaC: Terraform
+<ul>
+  <li>Front-End: Bootstrap, CSS, HTML, JavaScript, React, Redux</li>
+<li>Back-End: Express.js, Node.js</li>
+<li>Data-Base: MongoDB, SQL</li>
+<li>Container Orchestration: Kubernetes</li>
+<li>Continuous Integration (CI):  Jenkins</li>
+<li>Configuration Management: Ansible</li>
+<li>Containerization:  Docker	</li>
+<li>Scripting Language: Bash</li>
+<li>Build Tools: Maven 			</li>
+<li>Cloud Technologies: AWS</li>
+<li>Monitoring Tool: Prometheus</li>
+<li>IaC: Terraform</li>
+</ul> 
 </p>

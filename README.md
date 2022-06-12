@@ -13,3 +13,25 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dudanny712&show_icons=true&locale=en&layout=compact" alt="dudanny712" /></p>
+
+<p align="left">
+A diligent Master's Graduate possessing good insight and analytical skills with over 3 years of Professional Experience. 
+Driven by challenges and possess extensive knowledge of HTML, JavaScript, CSS, and React Framework with elementary experience in NodeJS, ExpressJS, MongoDB, and REST APIs. 
+I also possess extensive working knowledge of administration of Cloud Infrastructure and Version Control with DevOps Technologies and Amazon Web Services.
+</p>
+
+<h3 align="left">Key experiences:</h3>
+<p align="left">
+Front-End: Bootstrap, CSS, HTML, JavaScript, React, Redux
+Back-End: Express.js, Node.js
+Data-Base: MongoDB, SQL
+Container Orchestration: Kubernetes
+Continuous Integration (CI):  Jenkins
+Configuration Management: Ansible
+Containerization:  Docker	
+Scripting Language: Bash
+Build Tools: Maven 			
+Cloud Technologies: AWS
+Monitoring Tool: Prometheus
+IaC: Terraform
+</p>

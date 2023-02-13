@@ -19,25 +19,21 @@
 
 <h2 align="center">About Me:</h2>
 <p align="left">
-A diligent Master's Graduate possessing good insight and analytical skills with over 3 years of Professional Experience. 
-Driven by challenges and possess extensive knowledge of HTML, JavaScript, CSS, and React Framework with elementary experience in NodeJS, ExpressJS, MongoDB, and REST APIs. 
-I also possess extensive working knowledge of administration of Cloud Infrastructure and Version Control with DevOps Technologies and Amazon Web Services.
+A diligent Master's Graduate possessing good insight and analytical skills. 
+Driven by challenges and possess extensive knowledge of FrontEnd Web-Development frameworks with rudementary knowledge about backend, cloud and DevOps practices. 
 </p>
 
 <h3 align="left">Key experiences:</h3>
 <p align="left">
 <ul>
-  <li>Front-End: Bootstrap, CSS, HTML, JavaScript, React, Redux</li>
+<li>Front-End: Bootstrap, CSS, HTML, JavaScript, React, Vue.Js Redux</li>
 <li>Back-End: Express.js, Node.js</li>
-<li>Data-Base: MongoDB, SQL</li>
-<li>Container Orchestration: Kubernetes</li>
+<li>Data-Base: SQL</li>
 <li>Continuous Integration (CI):  Jenkins</li>
 <li>Configuration Management: Ansible</li>
 <li>Containerization:  Docker	</li>
 <li>Scripting Language: Bash</li>
-<li>Build Tools: Maven 			</li>
 <li>Cloud Technologies: AWS</li>
-<li>Monitoring Tool: Prometheus</li>
 <li>IaC: Terraform</li>
 </ul> 
 </p>

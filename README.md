@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Daniel Anthony Raju</h1>
-<h3 align="center">Terraform || AWS || Jenkins || Ansible || Kubernetes || Docker || Web Development ||</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dudanny712&label=Profile%20views&color=0e75b6&style=flat" alt="dudanny712" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/dudanny712](https://github.com/dudanny712)
 
-- 📫 How to reach me **du.danny712@gmail.com**
+- 📫 How to reach me **dangermany712@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,13 +26,10 @@ Driven by challenges and possess extensive knowledge of FrontEnd Web-Development
 <p align="left">
 <ul>
 <li>Front-End: Bootstrap, CSS, HTML, JavaScript, React, Vue.Js Redux</li>
-<li>Back-End: Express.js, Node.js</li>
-<li>Data-Base: SQL</li>
 <li>Continuous Integration (CI):  Jenkins</li>
 <li>Configuration Management: Ansible</li>
 <li>Containerization:  Docker	</li>
 <li>Scripting Language: Bash</li>
 <li>Cloud Technologies: AWS</li>
-<li>IaC: Terraform</li>
 </ul> 
 </p>

@@ -25,7 +25,7 @@ Driven by challenges and possess extensive knowledge of FrontEnd Web-Development
 <h3 align="left">Key experiences:</h3>
 <p align="left">
 <ul>
-<li>Front-End: Bootstrap, CSS, HTML, JavaScript, React, Vue.Js Redux</li>
+<li>Front-End: Bootstrap, CSS, HTML, JavaScript/Typescript, React, Vue.Js</li>
 <li>Continuous Integration (CI):  Jenkins</li>
 <li>Configuration Management: Ansible</li>
 <li>Containerization:  Docker	</li>
